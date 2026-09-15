@@ -4,6 +4,13 @@
 
 **Project page:** https://k9dtv.com/project-hello-world-3d.html
 
+## Layout
+
+| Folder | Contents |
+|--------|----------|
+| `Hello-world-plus-3D/` | Arduino sketch (`Hello-world-plus-3D.ino` + `font8x8.h`) |
+| `MicroPython/` | MicroPython port (placeholder for that build) |
+
 > **Warning — overclocked CPU and I2C**
 >
 > This sketch pushes the hardware beyond typical defaults:
@@ -15,7 +22,7 @@
 >
 > **To run at default/safer settings:**
 >
-> 1. Open `Hello-world-plus-3D.ino`.
+> 1. Open `Hello-world-plus-3D/Hello-world-plus-3D.ino`.
 > 2. **CPU —** find `setup1()` (near the top of the file, after the display driver class). Delete or comment out:
 > ```cpp
 > set_sys_clock_khz(200000, true);
@@ -54,4 +61,4 @@ The sketch shows a custom font “Hello, World”, grid overlays, a Lissajous cu
 - Adafruit GFX Library
 - Adafruit SSD1306 Library
 
-Open `Hello-world-plus-3D.ino` in the Arduino IDE (folder name must match the `.ino` filename).
+Open `Hello-world-plus-3D/Hello-world-plus-3D.ino` in the Arduino IDE (the sketch folder name must match the `.ino` filename).
