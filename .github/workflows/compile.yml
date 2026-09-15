@@ -33,4 +33,4 @@ jobs:
         run: |
           arduino-cli compile \
             --fqbn "rp2040:rp2040:generic_rp2350" \
-            .
+            Hello-world-plus-3D
