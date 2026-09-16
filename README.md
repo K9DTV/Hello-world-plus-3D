@@ -4,6 +4,8 @@
 
 **Project page:** https://k9dtv.com/project-hello-world-3d.html
 
+<video src="docs/Hello_World_3D.mp4" controls muted playsinline width="360"></video>
+
 ## Layout
 
 | Folder | Contents |
