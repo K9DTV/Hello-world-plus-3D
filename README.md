@@ -1,17 +1,18 @@
 # Hello world plus 3D
 
 [![Compile](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/compile.yml)
+[![MicroPython](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/micropython.yml/badge.svg)](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/micropython.yml)
 
 **Project page:** https://k9dtv.com/project-hello-world-3d.html
 
-<video src="docs/Hello_World_3D.mp4" controls muted playsinline width="360"></video>
+<video src="docs/Hello_World_3D.mp4" controls muted playsinline width="720"></video>
 
 ## Layout
 
 | Folder | Contents |
 |--------|----------|
 | `Hello-world-plus-3D/` | Arduino sketch (`Hello-world-plus-3D.ino` + `font8x8.h`) |
-| `MicroPython/` | MicroPython port (placeholder for that build) |
+| `MicroPython/` | MicroPython port (`main.py` + `font8x8_mp.py`) |
 
 > **Warning — overclocked CPU and I2C**
 >

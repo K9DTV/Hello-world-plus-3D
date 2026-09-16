@@ -1,0 +1,25 @@
+# Syntax-check MicroPython sources (does not run on hardware).
+
+name: MicroPython
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: py_compile MicroPython sources
+        run: python -m py_compile MicroPython/main.py MicroPython/font8x8_mp.py
