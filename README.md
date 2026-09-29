@@ -65,3 +65,7 @@ The sketch shows a custom font “Hello, World”, grid overlays, a Lissajous cu
 - Adafruit SSD1306 Library
 
 Open `Hello-world-plus-3D/Hello-world-plus-3D.ino` in the Arduino IDE (the sketch folder name must match the `.ino` filename).
+
+## License
+
+MIT -- see `LICENSE`.
