@@ -2,6 +2,7 @@
 
 [![Compile](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/compile.yml)
 [![MicroPython](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/micropython.yml/badge.svg)](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/micropython.yml)
+![License](https://img.shields.io/github/license/K9DTV/Hello-world-plus-3D)
 
 **Project page:** https://k9dtv.com/project-hello-world-3d.html
 
