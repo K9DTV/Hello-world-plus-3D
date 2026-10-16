@@ -2,7 +2,13 @@
 
 [![Compile](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/compile.yml/badge.svg)](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/compile.yml)
 [![MicroPython](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/micropython.yml/badge.svg)](https://github.com/K9DTV/Hello-world-plus-3D/actions/workflows/micropython.yml)
-![License](https://img.shields.io/github/license/K9DTV/Hello-world-plus-3D)
+[![Release](https://img.shields.io/github/v/release/K9DTV/Hello-world-plus-3D?label=release)](https://github.com/K9DTV/Hello-world-plus-3D/releases/latest)
+[![Status](https://img.shields.io/badge/status-final%20v1.0.0-lightgrey)](https://github.com/K9DTV/Hello-world-plus-3D/releases/tag/v1.0.0)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-RP2350-red)](https://k9dtv.com/project-hello-world-3d.html)
+[![Display](https://img.shields.io/badge/display-SSD1306%20128x64-orange)](https://k9dtv.com/project-hello-world-3d.html)
+[![Arduino](https://img.shields.io/badge/Arduino-sketch-00979D)](Hello-world-plus-3D/)
+[![Website](https://img.shields.io/badge/k9dtv.com-project%20page-0a7ea4)](https://k9dtv.com/project-hello-world-3d.html)
 
 **Project page:** https://k9dtv.com/project-hello-world-3d.html
 
